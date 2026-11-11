@@ -1,0 +1,12 @@
+#virtual environment
+myenv/
+venv/
+.env/
+
+#python cache
+__pycache__/
+
+#cache files
+*.log
+*.cache
+query_cache.json
